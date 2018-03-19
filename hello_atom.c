@@ -6,6 +6,5 @@ int main(int argc, char const *argv[]) {
 
   printf("Second commit, checking push\n");
 
-asd
   return 0;
 }
